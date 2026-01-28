@@ -1,1 +1,1 @@
-upstream
+print("test")
